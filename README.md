@@ -6,3 +6,5 @@ I had never taken a Unity class before my capstone game's class, I decided to fu
 I've also put recordings of useful Unity tutorials I used when making project soup.
 
 The 1-14 logs are in reverse chronological order (1 newer, 14 older), log 15 is newest
+
+log 16-26 are in reverse chronological and are older than 14
