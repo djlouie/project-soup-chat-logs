@@ -5,5 +5,4 @@ I had never taken a Unity class before my capstone game's class, I decided to fu
 
 I've also put recordings of useful Unity tutorials I used when making project soup.
 
-Log 1-14 are in reverse chronological order
-Log 15 is in order
+The logs are in reverse chronological order
